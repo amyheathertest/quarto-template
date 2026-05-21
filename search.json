@@ -1,5 +1,16 @@
 [
   {
+    "objectID": "pages/1_making_a_change.html",
+    "href": "pages/1_making_a_change.html",
+    "title": "Exercise 1. Making a change",
+    "section": "",
+    "text": "This is my new sentence.\nThis is another change.",
+    "crumbs": [
+      "GitHub",
+      "Exercise 1. Making a change"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quarto Template",
